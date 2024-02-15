@@ -52,7 +52,10 @@ FIGURE-02
 ## CIRCUIT DIAGRAM 
 
 
-![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
+
+
+![schematic ](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/dc839f28-c780-4ddc-9e36-c489ae28fc2d)
+
 
 
 
@@ -62,6 +65,7 @@ FIGURE -03
 
 
 ## PROGRAM 
+```
  int led=4;
 int pb=3;
 void setup()
@@ -85,10 +89,11 @@ else{
   digitalWrite(led,LOW);
 } 
 }
+```
 ## OUTPUT OF SIMULATION :
 ![intro to robotics exp 1](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/8d7ed110-66c6-44f2-9c3c-8f2084a30daf)
 
-![schematic ](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/ce887675-4da9-477e-8423-54cb0309c6bd)
+
 
 [My image](username.github.com/repository/img/image.jpg)
 
