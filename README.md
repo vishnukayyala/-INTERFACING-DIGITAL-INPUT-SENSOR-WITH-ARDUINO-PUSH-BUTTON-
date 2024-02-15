@@ -86,9 +86,9 @@ else{
 } 
 }
 ## OUTPUT OF SIMULATION :
-[robotics experiment 1.pdf](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/files/14291979/robotics.experiment.1.pdf)
-[exp 1   23000132.pdf](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/files/14291986/exp.1.23000132.pdf)
+![intro to robotics exp 1](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/8d7ed110-66c6-44f2-9c3c-8f2084a30daf)
 
+![schematic ](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/ce887675-4da9-477e-8423-54cb0309c6bd)
 
 [My image](username.github.com/repository/img/image.jpg)
 
