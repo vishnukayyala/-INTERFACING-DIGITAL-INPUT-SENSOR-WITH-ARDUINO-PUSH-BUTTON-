@@ -91,7 +91,7 @@ else{
 }
 ```
 ## OUTPUT OF SIMULATION :
-![intro to robotics exp 1](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/8d7ed110-66c6-44f2-9c3c-8f2084a30daf)
+![robtic experiment no 1](https://github.com/vishnukayyala/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/151489368/9c0e50cf-7e5f-4dab-b94f-004edfa0b771)
 
 
 
