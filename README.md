@@ -97,3 +97,4 @@ else{
 
 [My image](username.github.com/repository/img/image.jpg)
 
+## RESULT: Thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad .
